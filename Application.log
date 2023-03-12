@@ -1,0 +1,51 @@
+2023-03-11 20:22:26  [org.test.utilities.LogCapture] (main:) Test message one
+2023-03-11 20:23:30  [org.test.utilities.LogCapture] (main:) Test message one
+2023-03-11 20:23:30  [org.test.utilities.LogCapture] (main:) Test error message
+2023-03-11 20:24:08  [org.test.utilities.LogCapture] (main:) Test message one
+2023-03-11 20:24:08  [org.test.utilities.LogCapture] (main:) Test error message
+2023-03-11 22:11:14  [Tc1] (main:) Test login passed
+2023-03-11 22:52:45  [Tc1] (main:) Test login passed
+2023-03-11 22:58:44  [Tc1] (main:) Test login passed
+2023-03-11 22:58:57  [TC1] (main:) Click on History is working
+2023-03-11 23:02:14  [Tc1] (main:) Test login passed
+2023-03-11 23:02:27  [TC1] (main:) Click on History is working
+2023-03-11 23:04:35  [Tc1] (main:) Test login passed
+2023-03-11 23:04:49  [TC1] (main:) Click on History is working
+2023-03-11 23:04:50  [TC1] (main:) Click on Library is working
+2023-03-11 23:06:55  [Tc1] (main:) Test login passed
+2023-03-11 23:07:06  [TC1] (main:) Click on History is working
+2023-03-11 23:07:06  [TC1] (main:) Click on Library is working
+2023-03-11 23:10:39  [Tc1] (main:) Test login passed
+2023-03-11 23:10:51  [TC1] (main:) Click on History is working
+2023-03-11 23:10:51  [TC1] (main:) Click on Library is working
+2023-03-11 23:10:51  [TC1] (main:) Click on Subscription is working
+2023-03-11 23:10:58  [TC1] (main:) Click on trending video
+2023-03-12 12:02:00  [Tc1] (main:) Test login passed
+2023-03-12 12:02:16  [TC1] (main:) Click on History is working
+2023-03-12 12:02:16  [TC1] (main:) Click on Library is working
+2023-03-12 12:02:16  [TC1] (main:) Click on Subscription is working
+2023-03-12 12:02:23  [TC1] (main:) Click on trending video
+2023-03-12 12:04:27  [Tc1] (main:) Test login passed
+2023-03-12 12:04:40  [TC1] (main:) Click on History is working
+2023-03-12 12:04:41  [TC1] (main:) Click on Library is working
+2023-03-12 12:04:41  [TC1] (main:) Click on Subscription is working
+2023-03-12 12:04:48  [TC1] (main:) Click on trending video
+2023-03-12 12:06:56  [Tc1] (main:) Test login passed
+2023-03-12 12:07:16  [TC1] (main:) Click on History is working
+2023-03-12 12:07:18  [TC1] (main:) Click on Library is working
+2023-03-12 12:12:48  [Tc1] (main:) Test login passed
+2023-03-12 12:13:10  [TC1] (main:) Click on History is working
+2023-03-12 12:13:12  [TC1] (main:) Click on Library is working
+2023-03-12 12:13:12  [TC1] (main:) Click on Subscription is working
+2023-03-12 12:13:19  [TC1] (main:) Click on trending video
+2023-03-12 18:17:04  [Tc1] (main:) Test login passed
+2023-03-12 18:19:20  [Tc1] (main:) Test login passed
+2023-03-12 18:22:35  [Tc1] (main:) Test login passed
+2023-03-12 18:30:51  [Tc1] (main:) Test login passed
+2023-03-12 22:32:34  [Tc1] (main:) Test login passed
+2023-03-12 22:34:46  [Tc1] (main:) Test login passed
+2023-03-12 22:36:08  [Tc1] (main:) Test login passed
+2023-03-12 22:36:24  [TC1] (main:) Click on History is working
+2023-03-12 22:36:26  [TC1] (main:) Click on Library is working
+2023-03-12 22:36:26  [TC1] (main:) Click on Subscription is working
+2023-03-12 22:36:33  [TC1] (main:) Click on trending video
